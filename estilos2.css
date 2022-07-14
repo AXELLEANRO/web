@@ -1,0 +1,83 @@
+body{
+    background-image: url(/body.jpg);
+    font-family: sans-serif;
+
+}
+
+.contenedor{
+    background-color: darkred;
+    height: 50vh;
+    margin: 5%;
+    font-size: 70px;
+    font-style: italic;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+p{
+    width: 50%;
+
+}
+.lola{
+    
+    font-style: italic;
+    background-color: darkred;
+    border: 1px solid #ccc;
+    padding: 0 1rem;
+    margin: 1rem;
+}
+.d1{
+    color: red;
+    font-style: italic;
+    font-family: sans-serif;
+    background-color: black;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hijodos{
+
+    color: black;
+   background-color: red;
+   width: 400px;
+   margin: 0 auto;
+
+}
+.padre {
+    text-align: center;
+}
+
+.hijouno {
+    background-color: red;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+
+}
+
+.hijofn{
+    font-size: 50px;
+    background-color: black;
+    color: black;
+    text-size-adjust: 500px;
+    text-align: center;
+    color: red;
+    margin: 0 auto;
+}
+
+.btn-wsp{
+    color: black;
+}
+    
+.lol {
+       background-color: transparent;
+       color: white;
+       width: 700px;
+       margin: 0 auto;
+       text-align: center;
+}
